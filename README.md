@@ -10,9 +10,9 @@ If you want to know about me, check my social networks or my full CV.
 ## Formal education
 
 - 🧑‍💻 Web Development
-- 🎨 Art History graduate
-- 🧑‍🏫 Masters in Medieval Studies and Education
 - 🎓 PhD in Medieval Art and Literature
+- 🧑‍🏫 Masters in Medieval Studies and Education
+- 🎨 Art History graduate
 
 
 <!--
