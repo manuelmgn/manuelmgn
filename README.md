@@ -2,10 +2,10 @@
 
 If you want to know about me, check my social networks or my full CV.
 
-## About me
+## Skills
 
-- 🌱 Web developer
-- 💖 Passionate about technology and art
+- 💠 JavaScript, PHP, Java
+- 🐳 Docker
 
 ## Formal education
 
@@ -14,6 +14,17 @@ If you want to know about me, check my social networks or my full CV.
 - 🧑‍🏫 Masters in Medieval Studies and Education
 - 🎨 Art History graduate
 
+## Interests
+
+- 🏛️ Art history and heritage
+- 📐 Design
+- 🌿 Galician culture
+- 🎧 Music and films
+- 🐦‍⬛️ Nature
+- 🗞️ News and politics
+- 📖 Open source
+- 📱 Smart devices
+- 👾 Videogames
 
 <!--
 **manuelmgn/manuelmgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +39,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Programming Languages: Python, JavaScript, etc 
+- Web Frameworks: React, Django, etc
+- Databases: MySQL, MongoDB
+- Tools & Methods: Git, Agile, TDD, etc
 
 -->
