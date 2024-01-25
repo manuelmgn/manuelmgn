@@ -2,21 +2,6 @@
 
 If you want to know about me, check my social networks or my full CV.
 
-## Currently learning
-
-
-<img src="https://raw.githubusercontent.com/manuelmgn/manuelmgn/output/snake.svg" alt="Snake animation" />
-
-
-
-###
-
-###
-
-###</code>
-
-## Daily tools
-
 <!--
 ## Skills
 
