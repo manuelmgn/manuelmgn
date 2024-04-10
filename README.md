@@ -2,6 +2,8 @@
 
 If you want to know about me, check my [social networks](https://www.linkedin.com/in/manuel-mgn) or my [full CV](https://manuelmgn.github.io/cv/).
 
+You can also follow what I'm studying at [GitLab](https://gitlab.com/manuelmgn). 
+
 <!--
 ## Skills
 
