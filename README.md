@@ -1,8 +1,8 @@
-👋 Hi there, I'm Manuel! I'm starting my career as a web developer. I have dedicated the last years to research in Humanities and I have worked in universities such as Universidade de Santiago de Compostela or Universidad Complutense de Madrid. I recently made the leap into the world of computing, which I have been passionate about since I was a kid.
+👋 Hi there, I'm Manuel! I'm starting my journey as a web developer. For the past few years, I've been dedicated to research in the Humanities, but I recently made the leap into the world of computing—a passion I've had since childhood.
 
-If you want to know about me, check my [social networks](https://www.linkedin.com/in/manuel-mgn) or my [full CV](https://manuelmgn.github.io/cv/).
+I've explored and worked with various technologies, but I’m currently focusing on JavaScript and Python for web development.
 
-You can also follow what I'm studying at [GitLab](https://gitlab.com/manuelmgn). 
+If you'd like to know about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/manuel-mgn) or my [full CV](https://manuelmgn.github.io/cv/).
 
 <!--
 ## Skills
