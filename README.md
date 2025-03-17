@@ -2,7 +2,7 @@
 
 I've explored and worked with various technologies, but I’m currently focusing on JavaScript and Python for web development.
 
-If you'd like to know about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/manuel-mgn) or my [full CV](https://manuelmgn.github.io/cv/).
+If you'd like to know about me, feel free to check my [LinkedIn profile](https://www.linkedin.com/in/manuelmagan) or my [full CV](https://manuelmgn.github.io/cv/).
 
 <!--
 ## Skills
